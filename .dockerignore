@@ -1,0 +1,6 @@
+node_modules
+.git
+.vscode
+*.log
+dist  # if you build separately and don't want to copy
+.env.local
